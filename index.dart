@@ -1,4 +1,9 @@
+
 void main(){
-    print("hello world");
+    int a=10;
+    int b=20;
+    int sum =a+b;
+
+    print("hello world":$sum);
     
 }
